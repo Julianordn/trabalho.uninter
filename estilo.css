@@ -1,0 +1,33 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    color:brown; text-align: center;
+}
+p{
+    font-size:larger; text-align: justify; font-style: italic;
+}
+ul li{
+    padding: 15px;
+}
+img{
+    border-radius: 50%; width: 100px; padding: 10px;
+}
+
+table{
+    background-color:brown; border: solid; 
+}
+a:hover{
+color:brown;
+}
+h2{
+background-color:brown; width: 150px; color:rgb(243, 247, 243); }
+th{
+    background-color:aquamarine;
+}
+td{
+    background-color: aliceblue; text-align: center; padding: 10px;
+}
+button{
+    background-color: aquamarine;
+}
